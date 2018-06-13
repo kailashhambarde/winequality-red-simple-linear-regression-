@@ -1,0 +1,9 @@
+Result :
+
+
+    Intercept (B0)         :  1.6918
+    Co-efficient (B1)      :  0.377
+    Test R-Squared value   :  0.185
+    
+    From the test R squared value, we can conclude that there is no strong relationship betwwen quality and alcohol varible in the wine data,
+    as R-squared is less than 0.7.
